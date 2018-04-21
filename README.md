@@ -11,9 +11,13 @@ for sending command CTRL+A
 for start connection type (without breakets):
 
 /INFO <nick> <password> <realname> <charset>
+  
 /PORT <number of you port for bind socket>
+
 /CONNECT <domain or ip> <port>
+
 /START_READ
+
 /LOGIN
 
 YOU DID IT.
