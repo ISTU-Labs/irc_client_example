@@ -19,7 +19,8 @@ for start connection type (without breakets):
 YOU DID IT.
 
 for join to channel: /JOIN <channelname>
+  
 for exit from channel: /PART <channelname>
+  
 for quit from server: /QUIT <reason (optional)>
-
 for sending msg: /PRIVMSG <channelname> <your message>
