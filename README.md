@@ -10,11 +10,11 @@ for sending command CTRL+A
 
 for start connection type (without breakets):
 
-/INFO <nick> <password> <realname> <charset>
+/INFO "nick" "password" "realname" "charset"
   
-/PORT <number of you port for binding connection>
+/PORT "number of you port for binding connection"
 
-/CONNECT <domain or ip> <port>
+/CONNECT "domain or ip" "port"
 
 /START_READ
 
@@ -22,9 +22,9 @@ for start connection type (without breakets):
 
 YOU DID IT.
 
-for join to channel: /JOIN <channelname>
+for join to channel: /JOIN "channelname"
   
-for exit from channel: /PART <channelname>
+for exit from channel: /PART "channelname"
   
-for quit from server: /QUIT <reason (optional)>
-for sending msg: /PRIVMSG <channelname> <your message>
+for quit from server: /QUIT "reason (optional)"
+for sending msg: /PRIVMSG "channelname" "your message"
