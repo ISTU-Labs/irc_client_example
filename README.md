@@ -12,7 +12,7 @@ for start connection type (without breakets):
 
 /INFO <nick> <password> <realname> <charset>
   
-/PORT <number of you port for bind socket>
+/PORT <number of you port for binding connection>
 
 /CONNECT <domain or ip> <port>
 
